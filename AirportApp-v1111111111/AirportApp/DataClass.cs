@@ -50,6 +50,5 @@ namespace AirportApp
             dataGridView1.DataSource = dsSet.Tables[0];
             strReader.Close();
         }
-
     }
 }
