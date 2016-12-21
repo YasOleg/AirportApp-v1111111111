@@ -1,0 +1,10 @@
+D:\AirportApp-v1.1-master\AirportApp\bin\Debug\AirportApp.exe.config
+D:\AirportApp-v1.1-master\AirportApp\obj\Debug\AirportApp.csprojResolveAssemblyReference.cache
+D:\AirportApp-v1.1-master\AirportApp\obj\Debug\AirportApp.AddForm.resources
+D:\AirportApp-v1.1-master\AirportApp\obj\Debug\AirportApp.Properties.Resources.resources
+D:\AirportApp-v1.1-master\AirportApp\obj\Debug\AirportApp.csproj.GenerateResource.Cache
+D:\AirportApp-v1.1-master\AirportApp\bin\Debug\AirportApp.exe
+D:\AirportApp-v1.1-master\AirportApp\bin\Debug\AirportApp.pdb
+D:\AirportApp-v1.1-master\AirportApp\obj\Debug\AirportApp.exe
+D:\AirportApp-v1.1-master\AirportApp\obj\Debug\AirportApp.pdb
+D:\AirportApp-v1.1-master\AirportApp\obj\Debug\AirportApp.MainForm.resources
